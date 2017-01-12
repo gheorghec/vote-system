@@ -2,9 +2,9 @@
 
 class Insert_vote {
     const DB_HOST = 'localhost';
-    const DB_NAME = 'startupv_votesystem';
-    const DB_USER = 'startupv_protofolio';
-    const DB_PASSWORD = 'ot$GnM]KgMsb';
+    const DB_NAME = '';
+    const DB_USER = '';
+    const DB_PASSWORD = '';
  
     /**
      * Open the database connection
